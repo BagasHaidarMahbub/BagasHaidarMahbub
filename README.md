@@ -45,6 +45,6 @@ Feel free to check out my repositories to see more of what I’ve been working o
 
 ## 📫 Contact Me
 
-- Email: [bagashaidar@gmail.com](mailto:haidarmahbubbagas@gmail.com)
+- Email: [haidarmahbubbagas@gmail.com](mailto:haidarmahbubbagas@gmail.com)
 
 Thank you for visiting my profile! Let's connect and build something amazing together!
