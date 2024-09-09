@@ -1,54 +1,50 @@
-# 👋 Hi there! Welcome to My GitHub Profile
+# Hi there! 👋 I'm Bagas Haidar Mahbub
 
-### I'm [Your Name] — Full-stack Developer | Open Source Enthusiast | Tech Writer
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
-
-## 🚀 About Me
-
-🔭 I’m currently working on:
-- [Project 1](https://github.com/your-username/project1): A brief description of the project.
-- [Project 2](https://github.com/your-username/project2): Another awesome project description.
-
-🌱 I’m currently learning:
-- [Technology 1](https://link_to_learning_resource.com): Why it's important for your growth.
-- [Technology 2](https://link_to_learning_resource.com): What excites you about it.
-
-💬 Ask me about:
-- Web Development (React, Node.js, Python, etc.)
-- Open Source Collaboration
-- Scaling SaaS platforms
-
-⚡ Fun fact:
-- I'm an avid traveler and coffee lover ☕.
+🌟 Fresh graduate with a passion for web development and software engineering. I have a strong foundation in HTML, CSS, JavaScript, and Python. While I may not have formal work experience yet, I have been building my skills through personal projects, coursework, and continuous learning.
 
 ---
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+## 🔧 Skills
+
+- **HTML**: Semantic and well-structured web pages.
+- **CSS**: Responsive design, animations, and layouts.
+- **JavaScript**: Frontend interactivity and dynamic user experiences.
+- **Python**: Basic scripting, problem-solving, and automation.
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Learning Path
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+I'm always looking to improve and expand my knowledge. Here's what I'm focusing on:
 
----
-
-## 🌐 Connect with me:
-
-- [LinkedIn](https://linkedin.com/in/your-username)
-- [Twitter](https://twitter.com/your-username)
-- [Personal Website](https://yourwebsite.com)
+- **Frontend Frameworks**: Learning HTML, CSS, JavaScript.
+- **Version Control**: Working with Git and GitHub.
+- **Problem Solving**: Enhancing my skills with data structures and algorithms.
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+## 💻 Projects
+
+Here are a few of my personal projects:
+
+- **[Portfolio Website](https://bagashaidarmahbub.github.io)**: A simple portfolio showcasing my skills and projects. Built using HTML, CSS, and JavaScript.
+- **[Website Top Up Store](https://github.com/BagasHaidarMahbub/website-topup-store)**: "Top up your balance easily and quickly with our store! Get instant access to your favorite games and services. Fast, secure, and reliable."
+- **[Python Calculator](https://github.com/BagasHaidarMahbub/calculator)**: A command-line calculator built with Python for basic arithmetic operations.
+
+Feel free to check out my repositories to see more of what I’ve been working on!
+
+---
+
+## 🚀 Future Goals
+
+- Gain experience through internships, open-source contributions, or freelance work.
+- Continue developing projects to strengthen my portfolio.
+- Become proficient in full-stack web development.
+
+---
+
+## 📫 Contact Me
+
+- Email: [bagashaidar@gmail.com](mailto:haidarmahbubbagas@gmail.com)
+
+Thank you for visiting my profile! Let's connect and build something amazing together!
